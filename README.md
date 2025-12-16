@@ -4,9 +4,10 @@ This repository contains a simple Mendix sample project demonstrating
 how to adopt agentic AI in an MVP using Mendix GenAI and Agents.
 
 ## What’s included
+- Application package as .mpk file is in /project folder
 - Predictive agent for ticket prioritization and next-action suggestions
 - Chat agent for querying ticket data using natural language
-- Structured prompts with JSON outputs
+- Structured prompts with JSON outputs are in /agent folder
 - Microflow-based function tools
 - Support Starter App as the base
 
@@ -24,7 +25,7 @@ Tested with Mendix Studio Pro 10.24.10
 2. Configure the GenAI / OpenAI connector
 3. Add your API key
 <img width="1922" height="790" alt="API_Key" src="https://github.com/user-attachments/assets/399b669b-c2bb-459b-9b00-34f455c1c97d" />
-
+4. Import agent json to load / create agents. 
 5. Run locally and test agents from Agent Overview
 
 ## Notes/ Limitations
