@@ -27,15 +27,18 @@ Tested with Mendix Studio Pro 10.24.10
 
 5. Run locally and test agents from Agent Overview
 
-## Notes
+## Notes/ Limitations
 - This project is intended for learning and MVP experimentation
 - Not production-hardened
 - Prompts and agents can be exported/imported as JSON
+- Demo-oriented prompts; not production hardened; keys must be stored safely
 
 ## Demo
 A short silent demo video is included in the LinkedIn article.
 <img width="1922" height="581" alt="Agents" src="https://github.com/user-attachments/assets/837c833b-5737-4215-b8aa-a83dc63b3c30" />
+
 <img width="1919" height="1052" alt="Chat_Demo" src="https://github.com/user-attachments/assets/fd7f74c4-4c1d-46d7-af58-ed0541e230c3" />
+
 <img width="1922" height="1040" alt="Agent_Prediction" src="https://github.com/user-attachments/assets/4c6ef0e5-2257-436f-a494-9a0cac9d0fcb" />
 
 
