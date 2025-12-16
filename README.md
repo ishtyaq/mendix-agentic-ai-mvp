@@ -25,12 +25,12 @@ Tested with Mendix Studio Pro 10.24.10
 2. Configure the GenAI / OpenAI connector
 3. Add your API key
 <img width="1922" height="790" alt="API_Key" src="https://github.com/user-attachments/assets/399b669b-c2bb-459b-9b00-34f455c1c97d" />
-4. Import agent json to load / create agents. 
+
+4. Import the JSON via Agent screen, import button (Agent Overview page).
 5. Run locally and test agents from Agent Overview
 
 ## Notes/ Limitations
 - This project is intended for learning and MVP experimentation
-- Not production-hardened
 - Prompts and agents can be exported/imported as JSON
 - Demo-oriented prompts; not production hardened; keys must be stored safely
 
