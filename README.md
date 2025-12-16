@@ -35,7 +35,8 @@ Tested with Mendix Studio Pro 10.24.10
 - Demo-oriented prompts; not production hardened; keys must be stored safely
 
 ## Demo
-A short silent demo video is included in the LinkedIn article.
+A short silent demo video is included in the LinkedIn article.https://www.linkedin.com/pulse/ai-agents-mendix-practical-mvp-story-ishtiaq-ahmad-mmmwe 
+
 <img width="1922" height="581" alt="Agents" src="https://github.com/user-attachments/assets/837c833b-5737-4215-b8aa-a83dc63b3c30" />
 
 <img width="1919" height="1052" alt="Chat_Demo" src="https://github.com/user-attachments/assets/fd7f74c4-4c1d-46d7-af58-ed0541e230c3" />
