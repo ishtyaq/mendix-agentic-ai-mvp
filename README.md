@@ -41,6 +41,8 @@ Tested with Mendix Studio Pro 10.24.10
 #### Endpoint
 https://generativelanguage.googleapis.com/v1beta/openai/
 
+<img width="607" height="504" alt="image" src="https://github.com/user-attachments/assets/d8e9cf61-8f85-43eb-bd08-890fe1ef7c14" />
+
 #### Model
 Gemini models must be **set explicitly** in Mendix (unlike OpenAI, where the connector auto-populates the model), for example:
 - `gemini-2.5-flash`
