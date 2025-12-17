@@ -34,6 +34,21 @@ Tested with Mendix Studio Pro 10.24.10
 - This project is intended for learning and MVP experimentation
 - Prompts and agents can be exported/imported as JSON
 - Demo-oriented prompts; not production hardened; keys must be stored safely
+## Gemini via OpenAI Connector
+
+ **Google Gemini** can be used with the Mendix **OpenAI Connector** via Google’s OpenAI-compatible endpoint (there is currently no official Mendix Gemini connector).
+
+#### Endpoint
+https://generativelanguage.googleapis.com/v1beta/openai/
+
+#### Model
+Gemini models must be **set explicitly** in Mendix (unlike OpenAI, where the connector auto-populates the model), for example:
+- `gemini-2.5-flash`
+- `gemini-2.0-flash`
+
+#### Availability
+⚠️ During testing (especially on the **free tier**), Gemini may return intermittent  
+`503 – model overloaded` responses. Adding retry logic or a fallback model is recommended.
 
 ## Demo
 A short silent demo video is included in the LinkedIn article.https://www.linkedin.com/pulse/ai-agents-mendix-practical-mvp-story-ishtiaq-ahmad-mmmwe 
