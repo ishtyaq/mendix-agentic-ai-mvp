@@ -10,6 +10,7 @@ how to adopt agentic AI in an MVP using Mendix GenAI and Agents.
 - Structured prompts with JSON outputs are in /agent folder
 - Microflow-based function tools
 - Support Starter App as the base
+<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/3f243677-4d67-4b23-b369-ff8f78370e12" />
 
 ## Mendix Version
 Tested with Mendix Studio Pro 10.24.10
